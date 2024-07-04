@@ -1,3 +1,4 @@
+Hey, this is Let's Go DevOps community 👋
 [![Banner](https://github.com/letsgodevops/.github/blob/main/profile/lgd-bg.png?raw=true)](https://letsgodevops.pl/)
 
 Let's Go **DevOps** isn't just another *company*; it's a *community*.
