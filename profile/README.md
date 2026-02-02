@@ -1,6 +1,6 @@
 ## Hi, this is [Let's Go DevOps](https://letsgodevops.pl/) community 👋
 
-[![Banner](https://github.com/letsgodevops/.github/blob/main/profile/lgd-bg.png?raw=true)](https://letsgodevops.pl/)
+[![Banner](https://github.com/letsgodevops/.github/blob/main/profile/background.png?raw=true)](https://letsgodevops.pl/)
 
 ### [Let's Go **DevOps**](https://letsgodevops.pl/) isn't just another *company*; it's a *community*.
 
